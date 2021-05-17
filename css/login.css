@@ -1,0 +1,29 @@
+.login
+{
+	width: 280px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: #191970;
+}
+.fa
+{
+	text-align: left;
+	font-size: 20px;
+	padding: 10px;
+}
+.text-box
+{
+display: inline-flex;
+padding: 10px;
+}
+button
+{
+margin-left: 45px;
+}
+img
+{
+	width: 50%;
+	text-align: center;
+}
