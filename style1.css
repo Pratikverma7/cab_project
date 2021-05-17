@@ -1,0 +1,14 @@
+.location
+{
+	background-image:url('http://d4595be3p93fv.cloudfront.net/wp-content/uploads/2019/08/Best-Taxi-service-in-Indore-Madhya-Pradesh.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.heading h3
+{
+	font-family: 'Ubuntu', sans-serif;
+}
+.carousel-control-prev-icon
+{
+	font-size: 30px;
+}
